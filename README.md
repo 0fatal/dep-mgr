@@ -13,10 +13,10 @@ The dep-mgr script is used to migrate dependencies from the official npm registr
 1. Make sure you have Node.js installed.
 4. Run the following command:
    ```
-   npx dep-mgr <dependency-name> --registry=<registry url>
+   npx dep-mgr <dependence-name> --registry=<registry url>
    ```
 6. Follow the prompts to login to your npm registry.
-7. The script will automatically publish the dependency to the specified registry.
+7. The script will automatically publish the dependence to the specified registry.
 
 ## Custom registry
 
