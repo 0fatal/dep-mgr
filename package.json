@@ -1,0 +1,28 @@
+{
+  "name": "npm-mgr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Migrate your npm dependencies from npm registry to your own registry.",
+  "bin": {
+    "npm-mgr": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/0fatal/npm-mgr.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "registry",
+    "verdaccio",
+    "publish",
+    "dependency",
+    "migrate"
+  ],
+  "author": "0fatal",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
