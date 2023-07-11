@@ -1,14 +1,14 @@
 {
-  "name": "npm-mgr",
+  "name": "dep-mgr",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Migrate your npm dependencies from npm registry to your own registry.",
   "bin": {
-    "npm-mgr": "./index.js"
+    "dep-mgr": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/0fatal/npm-mgr.git"
+    "url": "git://github.com/0fatal/dep-mgr.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
